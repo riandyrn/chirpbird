@@ -27,7 +27,7 @@ At the very least you need to deploy your system using docker-compose.
 ## Evaluation
 
 1. System design
-2. API documentation
+2. Project documentation
 3. System fail safe strategy
 4. Code readibility, cleanliness, & testability
 5. UI comfortability (good UX)
@@ -38,6 +38,12 @@ At the very least you need to deploy your system using docker-compose.
 1. Fork this repo.
 2. After you finish creating your changes, submit the link of your fork along with your CV & cover letter to [this page](https://stackoverflow.com/jobs/558729?so_medium=Talent&so_source=Talent).
 3. In your cover letter, share with us what changes you have made and what further changes you would prioritize if you had more time.
+
+## Deadline
+
+There is no exact deadline date for this project. The only deadline is when the vacancy has been closed. We plan to open the vacancy for the next 3 months.
+
+So feel free to take your time.
 
 ## Questions
 
