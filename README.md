@@ -27,8 +27,8 @@ At the very least you need to deploy your system using docker-compose.
 ## Evaluation
 
 1. System design
-2. Project documentation
-3. System fail safe strategy
+2. Project documentation (API documentation, architecture diagram, db schema, class diagram, etc...)
+3. System fail safe strategies
 4. Code readibility, cleanliness, & testability
 5. UI comfortability (good UX)
 6. Deployment strategy (bonus)
