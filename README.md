@@ -28,17 +28,17 @@ At the very least you need to deploy your system using docker-compose.
 
 1. System design
 2. API documentation
-3. Code readibility & cleanliness
-4. Code testability
+3. System fail safe strategy
+4. Code readibility, cleanliness, & testability
 5. UI comfortability (good UX)
 6. Deployment strategy (bonus)
 
 ## Submission
 
 1. Fork this repo.
-2. After you finish creating your changes, submit the link of your fork along with your CV & cover letter to [this page]().
+2. After you finish creating your changes, submit the link of your fork along with your CV & cover letter to [this page](https://stackoverflow.com/jobs/558729?so_medium=Talent&so_source=Talent).
 3. In your cover letter, share with us what changes you have made and what further changes you would prioritize if you had more time.
 
 ## Questions
 
-Got any questions? Feel free to open issue.
+Got any questions? Feel free to open [issues](https://github.com/riandyrn/chirpbird/issues).
