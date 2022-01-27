@@ -1,5 +1,8 @@
 # ChirpBird
 
+This challenge has been replaced with [OwlDetect](https://github.com/riandyrn/owldetect) challenge. 😁
+
+<!--
 Welcome to Haraj take home challenge!
 
 In this challenge you will be assigned to help fictional startup called `ChirpBird` to create their instant messaging platform. Basically they want to create platform similar like [Facebook Messenger](https://www.messenger.com/), [WhatsApp](https://www.whatsapp.com/), or [Telegram](https://telegram.org/).
@@ -54,3 +57,4 @@ So feel free to take your time.
 ## Questions
 
 Got any questions? Feel free to open [issues](https://github.com/riandyrn/chirpbird/issues).
+-->
